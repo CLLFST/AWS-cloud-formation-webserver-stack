@@ -72,7 +72,7 @@
             },
             "files" : {
               "/var/www/html/index.html" : {
-                "source": "https://github.com/sbouii/",
+                "source": "https://github.com/sbouii/AWS-cloud-formation-webserver-stack/blob/master/index.html",
                 "mode"  : "000600",
                 "owner" : "apache",
                 "group" : "apache"
